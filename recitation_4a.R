@@ -10,7 +10,7 @@ library(quantedaData)
 
 
 
-##Naie Bayes example
+##Naive Bayes example
 
 ##Replication of 13.1 from IIR textbook
 
